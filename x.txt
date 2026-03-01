@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 isso é só um teste
+=======
+vai tomar na cabeça
+>>>>>>> 7dfa198 (adição x.txt)
