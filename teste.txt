@@ -1,4 +1,8 @@
 testando repo 12x
 alteration master
 certo
+<<<<<<< HEAD
 fala meus correlegionarios
+=======
+qqqr
+>>>>>>> 6047170 (teste)
